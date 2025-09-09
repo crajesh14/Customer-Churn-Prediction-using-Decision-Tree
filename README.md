@@ -30,5 +30,3 @@ Customer churn is one of the biggest challenges in the telecom industry. This pr
 - Most important features: Contract type, tenure, MonthlyCharges
 
 
----
-👨‍💻 **Author**: Chakali Rajesh
